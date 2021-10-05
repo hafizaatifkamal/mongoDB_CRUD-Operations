@@ -16,7 +16,7 @@ async function main() {
 
     const collection = db.collection("employee");
 
-    return "done.";
+    return "Done.";
 }
 
 main()
